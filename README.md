@@ -4,7 +4,7 @@
 <p align="center">
   <img src="readmeImages/Spring_Boot_API_with_MongoDB.png" />
 </p>
-<p align="center" ><b>This project is</b></p> 
+<p align="center" ><b>This project was made for Spring Boot and MongoDB with Docker</b></p> 
  
 
 <p align="center">

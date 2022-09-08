@@ -27,19 +27,23 @@
 # Project
 
 
-Mongo Express can be reached from "localhost:8081"
+Mongo Express can be reached from <a href="localhost:8081">localhost:8081</a>
 
 ## List all of books (GET)
 
-localhost:8080/listBooks'
+![image info](readmeImages/listallbooks.png) 
 
 ## Add book (POST)
 
-localhost:8080/addBook 
-
 ![image info](readmeImages/postBook.png) 
 
+## Delete book (DELETE)
 
+![image info](readmeImages/deletebook.png) 
+
+## Query with ID (GET)
+
+![image info](readmeImages/querywithid.png) 
 
 # How To Use
 

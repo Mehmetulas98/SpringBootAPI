@@ -43,7 +43,7 @@ Mongo Express can be reached from <a href="localhost:8081">localhost:8081</a>
 
 ## Query with ID (GET)
 
-![image info](readmeImages/querywithid.png) 
+![image info](readmeImages/querywid.png) 
 
 # How To Use
 

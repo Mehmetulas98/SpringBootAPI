@@ -64,6 +64,9 @@ $ docker build -t springboot-mongodb:1.0 .
 
 # Run the app wih docker compose file
 $ docker-compose -f docker-compose.yaml up 
+
+# Add database and table
+$ For use API add "BookStores" database and "Book" table inside of this database. 
 ```
 
 # Credits

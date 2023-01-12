@@ -1,7 +1,7 @@
 version: '3'
 services:
   springboot-mongodb:
-    image: springboot-mongodb:1.5
+    image: springboot-mongodb:1.0
     ports:
       - 8080:8080
     links:
